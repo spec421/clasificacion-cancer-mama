@@ -28,4 +28,4 @@ Los datos utilizados en este proyecto fueron obtenidos a través de **cBioPortal
 ## Cómo ejecutar el proyecto
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/spec421/clasificacion-cancer-mama.git](https://github.com/spec421/clasificacion-cancer-mama.git)
+   git clone https://github.com/spec421/clasificacion-cancer-mama.git
